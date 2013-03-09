@@ -2,7 +2,7 @@
 Welcome to DEFCAD, operated by Defense Distributed. This site is a makeshift response to Makerbot Industries' decision to censor files uploaded in good faith at Thingiverse, specifically firearms-related files. We are hosting as many of the pulled files as we can find.  This zip includes all the files we host.
 
 # Version
-3.7 (Phelps)
+3.8 (Winston)
 
 # Author
 DEFCAD
@@ -15,6 +15,9 @@ www.defcad.org
 http://defensedistributed.com/donate-2/
 
 # Changelog
-+ DefDist_Cuomo_AR-15_30_round_magazine_v4.4.zip
-+ DefDist_AR15_Lower_Receiver_v5.zip
-+ AK47_FCG_2012_10.zip
++ lightning-link.iges
++ AR-15_lower_shadowkitfox_version.stl
++ practice_gun.stl
++ 22_electric_v3.zip
++ auditor_wrist_gun.zip
++ 22_electric_v3.zip

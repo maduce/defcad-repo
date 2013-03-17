@@ -1,23 +1,24 @@
 # Files
-Welcome to DEFCAD, operated by Defense Distributed. This site is a makeshift response to Makerbot Industries' decision to censor files uploaded in good faith at Thingiverse, specifically firearms-related files. We are hosting as many of the pulled files as we can find.  This zip includes all the files we host.
+Welcome to DEFCAD, operated by Defense Distributed. This zip includes all the files we host.  Go to www.defcad.com to fund DEFCAD
 
 # Version
-3.8 (Winston)
+3.9 (Kaneda)
 
 # Author
 DEFCAD
 
 # Websites 
 www.defensedistributed.com
+www.defcad.com
 www.defcad.org
 
 # Donate
 http://defensedistributed.com/donate-2/
 
 # Changelog
-+ lightning-link.iges
-+ AR-15_lower_shadowkitfox_version.stl
-+ practice_gun.stl
-+ 22_electric_v3.zip
-+ auditor_wrist_gun.zip
-+ 22_electric_v3.zip
++ Ammo/9x18.STL
++ Ammo/AccurateCartridges.zip
++ Misc/Dual-picatinny-rail.zip
++ Misc/Printable_Subcaliber_Insert.zip
++ Pistols/MAC-10-Grip.zip
++ Firearms/Printable_Flare_Pistol.zip

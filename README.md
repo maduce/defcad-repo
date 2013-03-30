@@ -1,8 +1,8 @@
 # Files
-Welcome to DEFCAD, operated by Defense Distributed. This zip includes all the files we host.  Go to www.defcad.com to fund DEFCAD
+Welcome to DEFCAD, operated by Defense Distributed. This zip includes all the files we host.  Go to www.defcad.com to fund the new DEFCAD
 
 # Version
-3.9 (Kaneda)
+4.0 (Motoko)
 
 # Author
 DEFCAD
@@ -13,12 +13,12 @@ www.defcad.com
 www.defcad.org
 
 # Donate
+http://defcad.com
 http://defensedistributed.com/donate-2/
 
 # Changelog
-+ Ammo/9x18.STL
-+ Ammo/AccurateCartridges.zip
-+ Misc/Dual-picatinny-rail.zip
-+ Misc/Printable_Subcaliber_Insert.zip
-+ Pistols/MAC-10-Grip.zip
-+ Firearms/Printable_Flare_Pistol.zip
++ Ammo/125mm-BK-14M-HEAT
++ Rifles/DefDist_Cuomo_AR-15_30_round_magazine_v4.5
++ Rifles/M-4-M-16-Disconnector
++ Rifles/MagBlock-20-to-10
++ Misc/RCSupremeTray

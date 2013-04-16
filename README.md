@@ -2,7 +2,7 @@
 Welcome to DEFCAD, operated by Defense Distributed. This zip includes all the files we host.  Go to www.defcad.com to fund the new DEFCAD
 
 # Version
-4.0 (Motoko)
+4.1 (Carothers)
 
 # Author
 DEFCAD
@@ -17,8 +17,8 @@ http://defcad.com
 http://defensedistributed.com/donate-2/
 
 # Changelog
-+ Ammo/125mm-BK-14M-HEAT
-+ Rifles/DefDist_Cuomo_AR-15_30_round_magazine_v4.5
-+ Rifles/M-4-M-16-Disconnector
-+ Rifles/MagBlock-20-to-10
-+ Misc/RCSupremeTray
++ Ammo/357-magnum.ipt
++ Rifles/beowulf-follower.zip
++ Rifles/Flare_Pistol_26.5mm.zip
++ Rifles/m-16-lower-auto-sear.iges
++ Rifles/DefDist_Feinstein_AK47_magazine_v1.0.zip

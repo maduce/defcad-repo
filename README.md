@@ -3,10 +3,10 @@ Welcome to DEFCAD, operated by Defense Distributed. This zip includes all the fi
 
 # License
 
-GNU General Public License version 3 (GPLv3)
+These files are open source. 
 
+# License
 
-# Version
 4.2 (Saito)
 
 # Author

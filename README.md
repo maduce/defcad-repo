@@ -23,11 +23,11 @@ http://defcad.com
 http://defensedistributed.com/donate-2/
 
 # Changelog
-+ Ammo/125mm-bm15-APFSDS.zip
++ Ammo/125mm-bm15-APFSDS
 + Ammo/Leadcaster.44.stl
 + Firearms/22-compact.stl
-+ Misc/ergonomicduster.zip
++ Misc/ergonomicduster
 + Misc/spikedduster.stl
-+ Misc/voltlock.zip
++ Misc/voltlock
 + Rifles/AK47receiverv1.1.stl
-+ Rifles/shadowfall_ar15_80_lower_v5.zip
++ Rifles/shadowfall_ar15_80_lower_v5

@@ -1,13 +1,13 @@
-The WarFairy P-15 Stock
+#The WarFairy P-15 Stock
 
 Keep an eye out for the P-15 foregrip to go along with this release. Coming soon...
 
-INSTRUCTIONS:
+#INSTRUCTIONS:
 
 You will need glue that works for your chosen material.
 Included in this package are 2 versions of the stock body. If your print envelope is LESS than 10” on any axis, use the back and front halves. If you have a Rostock Max or other large format printer, use the Full Stock file (you lucky bastard).
 
-FAIR WARNING: 
+#FAIR WARNING: 
 
 The stock is mostly solid. If my program is correct, and you make it 100% infill, it will weigh 3 bloody pounds. Please, for the love of god, set your infill to between 50 and 75 percent to save yourself the heartache of burning through all of your precious goo or running out mid-print.
 
@@ -22,10 +22,10 @@ DO NOT Glue the stock cap onto the main stock body. The Stock Body has a cavity 
 
 I LEAVE IT UP TO YOU to decide if you want to slightly sand the short pegs. As they are, they should be a tight fit into the holes they go to. And hey, if you mess it up, just print some more. They're only ½ inch in diameter and 10mm long.
 
-YOU WILL NEED 
+#YOU WILL NEED 
 1 Each; Butt Pad, Stock Back Half, Stock Front Half and Stock Cap.
 6 Pegs
-OPTIONAL:
+#OPTIONAL:
 Spacers: They are 10mm thick each for reference. For each spacer you add, you will need an aditional 4 pegs.
 
 HAPPY HUNTING,

@@ -1,20 +1,20 @@
-=WarFairy "Charon" AR-15 Receiver V0.1B=
+# WarFairy "Charon" AR-15 Receiver V0.1B
 
-==License==
+## License
 I reserve no rights. Pirate this Gun. Please change name of independant projects to prevent confusion and avoid incompatibilities.
 
-===WARNING:=== Printing this receiver constitutes constructing a firearm. Check all local laws prior to printing.
+### WARNING: Printing this receiver constitutes constructing a firearm. Check all local laws prior to printing.
 
-===WARNING:=== This is a Beta Release. These parts are absolutely 100% untested. Print or manufacture at your own risk.
+### WARNING: This is a Beta Release. These parts are absolutely 100% untested. Print or manufacture at your own risk.
 
-==DISCLAIMER==
+## DISCLAIMER
 I am NOT an engineer. I hold no degree. I claim no advanced education. Take from that what you will.
 
 Thank you for downloading this Receiver. In this Readme, you will find instructions on the construction and assembly of the receiver.
 
 Please note, this file has been designed with FDM Printing in mind. All parts except the Butt Plate should be printed from Rear to Front. The Butt plate should be printed Front to Rear. Warping issues have been noted on a prior release when printing with the stock laying on its side. Remember, this is a firearm. Use whatever infill setting you wish, but it is HIGHLY recommended that you use 100% for the Receiver Middle and Front sections.
 
-==YOU WILL NEED==
+## YOU WILL NEED
 A printer with a print envelope at least 6"x6"x6".
 Sand Paper (600 grit for coarse, 800-1000 grit for finishing)
 Glue (Our resident print wizard suggests Weld-On #3)
@@ -23,7 +23,7 @@ A Lower Parts Kit for an AR-15
 The Action Spring (AKA Buffer Spring) for an AR-15
 A carbine size Buffer
 
-==YOU WILL NEED TO PRINT THE FOLLOWING==
+## YOU WILL NEED TO PRINT THE FOLLOWING
 
 Receiver Front x1
 Receiver Middle x1
@@ -41,11 +41,11 @@ Smooth Fore Grip Block
 Smooth Fore Grip No Guard Block
 Tactical Forearm Block
 
-==Optional==
+## Optional
 Spacer (This goes between the Butt Pad and Butt Cover, adding 10mm in length (about.4") to adjust stock length)
 
 
-==ASSEMBLY==
+## ASSEMBLY
 
 1 - Assemble Receiver Sections by pressing them into position, using the knobs and cutouts as guides. Ensure assembled sections fit smoothly, that the FCG pocket is well aligned, and that the Buffer Tube is aligned well. Once fit is verified, disassemble and use the glue on the flat interfaces between the three sections.
 
@@ -73,7 +73,7 @@ Spacer (This goes between the Butt Pad and Butt Cover, adding 10mm in length (ab
 
 
 
-==Post Notes==
+## Post Notes
 
 A later release will include my Logo. Having that complex little lady on either side of the stock slowed my computer to a standstill when I tried to convert to STEP and STL. I've got to optimize her heavilly before she can be included on a larger piece.
 

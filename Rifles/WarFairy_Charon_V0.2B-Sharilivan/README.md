@@ -120,3 +120,11 @@ Our resident guru recommends Weld-all #4 for securing ABS. It will weld faces to
 * Plunger Pin Head - Bottom to Top
 
 -----
+
+### Message From Author
+
+What you see before you is the product of a lot of hours, sleepless nights, and obsessive thought of how to bring the best possible firearms to the internet.  You now posess the data to create seven different firearms (well, ok, six, but the two unbuffered pistols have different grip shapes). Each with slightly different characteristics so you can print the firearm YOU want. PLEASE rename them if you make your own release so that we don't get cross-compatibility issues or anything like that. Chop em up, remix them, twist them, tweak them, make them your own or give them to everyone you know. The internet knows no borders or boundaries. No nationality. No religion. In this stream of 1's and 0's, we are all equal. We are all free. Use that freedom.
+
+WarFairy, out.
+
+To contact me, pop into the #defcad IRC on irc.oftc.net. Tor is recommended and supported.

@@ -4,10 +4,9 @@
 
 #### Example:
 
-"Filename" - start face to end face
+"Filename" - start face to end face.
 
-Start face dictates that the face should be against the print bed, with the end face being the last layer printed.
-Back refers to Butt end, front refers to muzzle end
+Start face dictates that the face should be against the print bed, with the end face being the last layer printed. Back refers to Butt end, front refers to muzzle end.
 
 These are all suggestions. Anything is possible with different machines, settings and support materials. Experiment and let me know what works best for you.
 
@@ -47,7 +46,7 @@ Our resident guru recommends Weld-all #4 for securing ABS. It will weld faces to
 
 ## Charon Unbuffered Hally Edition
 #### Note
-* This Requires 30x 10mm sections of 1.75mm filament as pegs, Requires 6" bed
+* This Requires 30x 10mm sections of 1.75mm filament as pegs, Requires 6" bed.
 
 1. Rear - Front to Back
 2. Mid - Back to Front
@@ -67,7 +66,7 @@ Our resident guru recommends Weld-all #4 for securing ABS. It will weld faces to
 ## Charon Rifle Slick Side
 #### Note
 * You will need to print 6x of the stock pegs. 4 for the butt pad, 2 for the Butt Cover. Do NOT glue Butt cover onto rear of receiver if you want to access storage compartment.
-* Assembly: Buttpad - 4x Pegs - Spacer (optional) - Butt Cover - 2x Pegs - Receiver
+* Assembly: Buttpad - 4x Pegs - Spacer (optional) - Butt Cover - 2x Pegs - Receiver.
 
 1. Part1 - Bottom to Top
 2. Part2 - Bottom to Top
@@ -80,7 +79,7 @@ Our resident guru recommends Weld-all #4 for securing ABS. It will weld faces to
 
 ## Charon Rifle Kommando Edition
 #### Note
-* You will need a 2mm spring for the rear mag catch. A cut down click pen spring should work. Slot is also cut for armed spring such as from a clothes pin
+* You will need a 2mm spring for the rear mag catch. A cut down click pen spring should work. Slot is also cut for armed spring such as from a clothes pin.
 * Assembly - Place chosen spring. Place catch side towards rear, with thumb panel towards front with tab towards the bottom of the receiver, ensuring spring slips into 2mm cut on back side of thumb panel. Slide release pin from top into hole in receiver tabs.
 
 1. Part1 Bottom to Top

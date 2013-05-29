@@ -24,7 +24,7 @@ Channel: #defcad
 
 # Donate
 http://defcad.com
-http://defensedistributed.com/donate-2/
+http://defensedistributed.com/donate/
 
 # Changelog
 * Firearms/Liberator_v1/

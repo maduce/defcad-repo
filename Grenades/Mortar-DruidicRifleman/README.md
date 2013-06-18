@@ -6,7 +6,7 @@ I see your considering printing out the Defcad Free Open Source Shanny 2 inch mo
 #### Warning 
 This round was designed to explode on impact. Like any heavy weapon it's dangerous and effectivly a very big Firearm.
 
-Check local laws and range rules etc. If you make this device illegally you may go to prison and endure prison love from bubba which is your problem not ours. We recomend using wicked AQUA silicone lubricant on your honeymoon to reduce friction with your cell mate  BE CAREFUL if you die we will laugh at you. I am not kidding!
+Check local laws and range rules etc. If you make this device illegally you may go to prison and enjoy prison man love from an oversized, hairy bubba; this is your problem, not ours. We recomend using wicked AQUA silicone lubricant on your honeymoon to reduce friction with your cell mate  BE CAREFUL if you die we will laugh at you. I am not kidding!
 
 #### Instructions
 As of yet you may be one of the first people to fire this mortar. As such, load dummy rounds AND SLOWLY increase the lift charge and walk them out to the desired range. Treat the ABS with MEK or acitone treatment. Note after each round check to see that nothing is left in the tube.

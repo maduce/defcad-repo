@@ -33,6 +33,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 * Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_44_Special_barrel-Proteus/
 * Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_45cal_barrel/
 * Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_9mm_makarov_barrel-Proteus/
+* Firearms/Liberators/Hydra_Liberator_Rifle_v1-Proteus/
 * Firearms/Liberators/Pepperbox_Liberator_v1.1-Caboose/
 * Grenades/Mortar-DruidicRifleman/
 * Misc/Defcad_Board_of_Ed-DruidicRifleman/

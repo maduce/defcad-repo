@@ -1,5 +1,5 @@
 # Files
-Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including all previous megapacks, i.e., Megapacks 4.2 (Saito) and the Megapack 4.3 (Tetsuo). These files are not being released by Defense Distributed.
+Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including all previous Megapacks, i.e., Megapack 4.2 (Saito) and the Megapack 4.3 (Tetsuo). These files are not being released by Defense Distributed.
 
 # License
 

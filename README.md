@@ -8,7 +8,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 
 # Version
 
-* 4.4 (Raiden)
+* 4.4 Release Candidate (Raiden)
 
 # Author
 * DEFCAD

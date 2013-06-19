@@ -41,7 +41,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 * Pistols/Shuty_9mm_v1-shadowfall/STEP/individual_parts/BOLT.STEP
 * Pistols/Shuty_9mm_v1-shadowfall/SLDPRT/BOLT.sldprt
 * Pistols/Shuty_9mm_v1-shadowfall/STL/BOLT.STL
-* Rifles/AK_10rd_Magazine-KryLiberty/
+* Rifles/AK-47_10_round_Magazine-KryLiberty/
 * Rifles/Carbine_and_Rifle_Handguards/
 * Rifles/DefDist_Feinstein_AK47_magazine_v1.0/SLDPRT/
 * Rifles/DefDist_Feinstein_AK47_magazine_v1.0/STEP/

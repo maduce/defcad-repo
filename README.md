@@ -37,6 +37,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 * Firearms/Liberators/Pepperbox_Liberator_v1.1-Caboose/
 * Grenades/Mortar-DruidicRifleman/
 * Misc/Defcad_Board_of_Ed-DruidicRifleman/
+* Misc/Samsung_GS4_Defcad_Case-Proteus/
 * Pistols/Shuty_9mm_v1-shadowfall/STEP/individual_parts/BOLT.STEP
 * Pistols/Shuty_9mm_v1-shadowfall/SLDPRT/BOLT.sldprt
 * Pistols/Shuty_9mm_v1-shadowfall/STL/BOLT.STL

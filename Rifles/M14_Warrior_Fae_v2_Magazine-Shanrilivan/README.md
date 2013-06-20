@@ -1,7 +1,7 @@
 # WarFairy Arms M14 Magazine
 
 #### Description 
-Its an M14 magazine, not a whole lot to say about it.
+Its a M14 magazine, not a whole lot to say about it.
 
 #### Instructions
 * You will need sandpaper or steel wool for surface finishing. 

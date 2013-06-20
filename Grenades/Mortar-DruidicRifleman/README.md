@@ -14,10 +14,11 @@ As of yet you may be one of the first people to fire this mortar. As such, load 
 * Future versions will have load data here.
 
 #### Non printed parts you'll need
-* 1 reprimed high brass shotgun shell
-* 1 209 primer (this gets placed at the bottom of the round hole of the primer plug)
-* 1 Turned metal hammer provided In the zip pack
-* 1 sheet of paper and some tape to seal the holes in the base of the mortar round
+* 1 reprimed high brass Shotgun shell
+* 1 209 primmer (this gets placed at the bottom of the round hole of the primmer plug)
+* 1 Turned Metal hammer provided In the Zip pack
+* 1 sheet of paper and some tape to Seal the holes in the Base of the mortar round
+* 1 a 1.2 inch spring with an ID of .450 inches to retain the fireing pin During handling.
 
 #### NOTE 
 Do not attempt to fire LIVE rounds till you have test fired with dummy rounds.  Do not use flash powder or explosives known to be impact sensitive as this could lead to the round going off in the tube.

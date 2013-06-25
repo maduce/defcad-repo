@@ -1,12 +1,12 @@
 # WarFairy Arms Atlas SSR/DMR
 
-### Description
+#### Description
 
 This is meant to be a more precision rifle than previous releases. The integrated bipod takes almost all stresses off of the upper. The DMR uses standard AR-15 uppers and magazines, and has provisions for bolt and mag releases. The SSR is purpose built as a lower for Bolt Action or single shot high recoil uppers such as the Tactilite series of uppers. The SSR has NO provision for Bolt Release, Magazine Release, Magazine well or Buffer Retainer.
 
-### Bill of Materials
+#### Bill of Materials
 
-* **COMMON PARTS**
+##### COMMON PARTS
 - Bipod Left Part 1
 - Bipod Left Part 2
 - (2x) Bipod Peg Part 1
@@ -20,15 +20,15 @@ This is meant to be a more precision rifle than previous releases. The integrate
 - Stock Rail Rear
 - Stock Rear
 
-* **DMR**
+##### DMR
 - Atlas DMR Receiver Front
 - Atlas DMR Recevier Rear
 
-* **SSR**
+#####SSR
 -  Atlas SSR Receiver Front
 - Atlas SSR Receiver Rear
 
-* **Forearm**
+##### Forearm
 - EITHER Short Fore Arm OR 
 - Long Fore Arm Part 1 and Long Fore Arm Part 2
 

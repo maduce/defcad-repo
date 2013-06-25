@@ -6,7 +6,7 @@ This is meant to be a more precision rifle than previous releases. The integrate
 
 ### Bill of Materials
 
-* COMMON PARTS
+* **COMMON PARTS**
 - Bipod Left Part 1
 - Bipod Left Part 2
 - (2x) Bipod Peg Part 1
@@ -20,16 +20,16 @@ This is meant to be a more precision rifle than previous releases. The integrate
 - Stock Rail Rear
 - Stock Rear
 
-* DMR
+* **DMR**
 - Atlas DMR Receiver Front
 - Atlas DMR Recevier Rear
 
-* SSR
+* **SSR**
 -  Atlas SSR Receiver Front
 - Atlas SSR Receiver Rear
 
-* Forearm
--  EITHER Short Fore Arm OR 
+* **Forearm**
+- EITHER Short Fore Arm OR 
 - Long Fore Arm Part 1 and Long Fore Arm Part 2
 
 #### PRINTING INSTRUCTIONS:

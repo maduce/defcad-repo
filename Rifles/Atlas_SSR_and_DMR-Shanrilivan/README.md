@@ -25,7 +25,7 @@ This is meant to be a more precision rifle than previous releases. The integrate
 - Atlas DMR Recevier Rear
 
 #####SSR
--  Atlas SSR Receiver Front
+- Atlas SSR Receiver Front
 - Atlas SSR Receiver Rear
 
 ##### Forearm

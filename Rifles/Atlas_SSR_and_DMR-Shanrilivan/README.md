@@ -1,4 +1,4 @@
-# WarFairy Arms Atlas SSR and DMR-
+# WarFairy Arms Atlas SSR/DMR
 
 ### Description
 
@@ -6,31 +6,31 @@ This is meant to be a more precision rifle than previous releases. The integrate
 
 ### Bill of Materials
 
-#### COMMON PARTS
-* Bipod Left Part 1
-* Bipod Left Part 2
-* (2x) Bipod Peg Part 1
-* (2x) Bipod Peg Part 2
-* Bipod Right Part 1
-* Bipod Right Part 2
-* Rear Takedown Pin
-* Stock Front
-* Stock Knob
-* Stock Rail Front
-* Stock Rail Rear
-* Stock Rear
+* COMMON PARTS
+- Bipod Left Part 1
+- Bipod Left Part 2
+- (2x) Bipod Peg Part 1
+- (2x) Bipod Peg Part 2
+- Bipod Right Part 1
+- Bipod Right Part 2
+- Rear Takedown Pin
+- Stock Front
+- Stock Knob
+- Stock Rail Front
+- Stock Rail Rear
+- Stock Rear
 
-#### DMR
-* Atlas DMR Receiver Front
-* Atlas DMR Recevier Rear
+* DMR
+- Atlas DMR Receiver Front
+- Atlas DMR Recevier Rear
 
-#### SSR
-*  Atlas SSR Receiver Front
-* Atlas SSR Receiver Rear
+* SSR
+-  Atlas SSR Receiver Front
+- Atlas SSR Receiver Rear
 
-# Forearm
-*  EITHER Short Fore Arm OR 
-* Long Fore Arm Part 1 and Long Fore Arm Part 2
+* Forearm
+-  EITHER Short Fore Arm OR 
+- Long Fore Arm Part 1 and Long Fore Arm Part 2
 
 #### PRINTING INSTRUCTIONS:
 

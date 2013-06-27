@@ -19,7 +19,8 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 * www.defcad.org
 
 # IRC
-* Server: irc.oftc.net Channel: #defcad
+* Server: irc.oftc.net 
+* Channel: #defcad
 
 # Donate
 * http://defcad.com

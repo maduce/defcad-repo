@@ -1,4 +1,4 @@
-# Trantor Trantor Revolver 224
+# Trantor Revolver 224
 
 #### Version
 v1.2

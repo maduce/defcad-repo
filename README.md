@@ -55,3 +55,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 * Rifles/Uzi_30rd_Magazine_v0.2_nils/
 * Rifles/WarFairy_Charon_V0.2B-Sharilivan/
 * Rifles/DefDist_AR15_Lower_Receiver_v5.1GS-cb/
+
+* Current Megapack Categories
+- Ammo; Firearms; Firearms/Liberators; Grenades; Misc; Muzzle_Devices; Pistols; Rifles
+

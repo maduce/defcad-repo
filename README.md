@@ -1,5 +1,5 @@
 # Files
-Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including all previous Megapacks, i.e., Megapack 4.2 (Saito) and the Megapack 4.3 (Tetsuo). These files are not being released by Defense Distributed.
+Welcome to DEFCAD. This Megapack is a collection of newest DEFCAD CAD files including all previous Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo) and 4.4 (Raiden). This Megapack hence replaces all previous Megapacks. These files are not being released by Defense Distributed. 
 
 # License
 
@@ -8,7 +8,7 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 
 # Version
 
-* 4.4 (Raiden)
+* 4.5RC
 
 # Author
 * DEFCAD
@@ -27,34 +27,28 @@ Welcome to DEFCAD. This Megapack is a collection of Defcad CAD files including a
 
 # Donate
 * http://defcad.com
-* http://defensedistributed.com/donate/
+* http://defdist/donate/
 
 # Changelog
 
-* Firearms/Liberators/Compact_Liberator_Frame-zylex/
-* Firearms/Liberators/Liberator_v1.1/
-* Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator.25ACP_Liberator_Barrels-Proteus/
-* Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_44_Special_barrel-Proteus/
-* Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_45cal_barrel/
-* Firearms/Liberators/Liberator_v1.1/other_barrels/Liberator_9mm_makarov_barrel-Proteus/
-* Firearms/Liberators/Hydra_Liberator_Rifle_v1-Proteus/
-* Firearms/Liberators/Pepperbox_Liberator_v1.1-Caboose/
-* Grenades/Mortar-DruidicRifleman/
-* Misc/Defcad_Board_of_Ed-DruidicRifleman/
-* Misc/Samsung_GS4_Defcad_Case-Proteus/
-* Pistols/Shuty_9mm_v1-shadowfall/STEP/individual_parts/BOLT.STEP
-* Pistols/Shuty_9mm_v1-shadowfall/SLDPRT/BOLT.sldprt
-* Pistols/Shuty_9mm_v1-shadowfall/STL/BOLT.STL
-* Rifles/AK-47_10_round_Magazine-KryLiberty/
-* Rifles/Carbine_and_Rifle_Handguards/
-* Rifles/DefDist_Feinstein_AK47_magazine_v1.0/SLDPRT/
-* Rifles/DefDist_Feinstein_AK47_magazine_v1.0/STEP/
-* Rifles/DefDist_Cuomo_AR-15_30_round_magazine_v4.5/SLDPRT/
-* Rifles/DefDist_Cuomo_AR-15_30_round_magazine_v4.5/STEP/
-* Rifles/AR-15_UZI_Style_Magazine-nils/
-* Rifles/Uzi_30rd_Magazine_v0.2_nils/
-* Rifles/WarFairy_Charon_V0.2B-Sharilivan/
-* Rifles/DefDist_AR15_Lower_Receiver_v5.1GS-cb/
+* Rifles/10_22_10rd_Magazine_v0.1-nils/
+* Rifles/10_22_30rd_Magazine_v0.2-nils/
+* Rifles/AK-47_10_round_Magazine-KryLiberty/SKP/
+* Rifles/Atlas_SSR_and_DMR-Shanrilivan/
+* Rifles/Nephilim_AR-10_Reinforced_Lower_Receiver_v1-WarFairy/
+* Pistols/1911_STI_Frame_for_5in_Standard_Non-unique_Slides/
+* Pistols/1911_STI_Full_Frame_and_Handle/
+* Firearms/Liberators/Baby_Biden_Pistol_v1.0-Proteus/
+* Firearms/Liberators/Cerberus_Liberator_Pistol_v0.1-Proteus/
+* Firearms/Liberators/Defcad_24_Liberator_Ammo_System_v1.1-Proteus/
+* Firearms/Liberators/Hydra_Liberator_Rifle_v2.0-Proteus/
+* Firearms/Liberators/Liberator_Glock_Frame-Proteus/
+* Firearms/Liberators/Liberator_Round_Grip-Proteus/
+* Firearms/Pentagun_Derringer_Pepperbox_6mm_v1-franco/
+* Firearms/Reprringer_6mm_v2.0-free-d/
+* Firearms/Reprringer_6mm_v2.2/
+* Firearms/Trantor_R224_v1.2-neomohist/
+* Misc/AR-15_Hard_Mag_Pouch_V3-Shanrilivan/
 
 * Current Megapack Categories
 - Ammo; Firearms; Firearms/Liberators; Grenades; Misc; Muzzle_Devices; Pistols; Rifles

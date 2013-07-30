@@ -30,7 +30,6 @@ Welcome to DEFCAD. This Megapack is a collection of newest DEFCAD CAD files incl
 * http://defdist/donate/
 
 # Changelog
-
 * Rifles/10_22_10rd_Magazine_v0.1-nils/
 * Rifles/10_22_30rd_Magazine_v0.2-nils/
 * Rifles/AK-47_10_round_Magazine-KryLiberty/SKP/

@@ -8,7 +8,7 @@ Welcome to DEFCAD. This Megapack is a collection of newest DEFCAD CAD files incl
 
 # Version
 
-* 4.5RC
+* 4.5 (Otacon)
 
 # Author
 * DEFCAD

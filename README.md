@@ -1,6 +1,6 @@
 
 # Notice
-This code is deprecated and all future development has been moved to [fosscad-repo](https://github.com/maduce/fosscad-repo).
+This code is deprecated and all future development has been moved to the [fosscad-repo](https://github.com/maduce/fosscad-repo) repository.
 
 # License
 
